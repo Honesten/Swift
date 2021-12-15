@@ -24,6 +24,8 @@ let machins = Machines()
 machins.serialNumber(atName: "Bobb")
 machins.guardFunc()
 
+//TO:DO Не разобрался со 2 заданием
+
 
 
 
